@@ -1,0 +1,1 @@
+exports.waitListRouter = require('./waitListRoutes');
