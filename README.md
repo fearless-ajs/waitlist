@@ -1,6 +1,6 @@
 # waitlist
 
-#My Solution provided to the following task
+#My Solution provided to a waitlist API task
 --------------------------------------------
 
 As a developer at Dira Labs , you’re required to provide an API endpoint that helps people to join a waitlist. The waitlist would be able to accomodate two types of waitlisters:
